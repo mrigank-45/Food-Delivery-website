@@ -2,7 +2,7 @@ const express = require("express");
 const path = require("path");                    // module to add strings
 const fs = require("fs");
 const app = express();
-const port = 4848;
+const port = 6767;
 
 // DATABASE SPECIFIC STUFF
 const mongoose = require('mongoose');
